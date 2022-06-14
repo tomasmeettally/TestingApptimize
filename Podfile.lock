@@ -1,0 +1,25 @@
+PODS:
+  - Analytics (4.1.6)
+  - Apptimize (3.5.15)
+  - Segment-Apptimize (0.3.4):
+    - Analytics (>= 3.0)
+    - Apptimize (~> 3.0)
+
+DEPENDENCIES:
+  - Apptimize (~> 3.5)
+  - Segment-Apptimize (~> 0.3)
+
+SPEC REPOS:
+  trunk:
+    - Analytics
+    - Apptimize
+    - Segment-Apptimize
+
+SPEC CHECKSUMS:
+  Analytics: eefe524436f904b8bb3f8c8c3425280e43b34efc
+  Apptimize: 77bab7a4929c45497d5f76e27ca4a0c459a2097a
+  Segment-Apptimize: 62dcc468e4c52ec5230fb2540f8a6f2ab69ae4dd
+
+PODFILE CHECKSUM: 38474fa6052ac9e9dcf41c250f803b59cc6cdbce
+
+COCOAPODS: 1.10.0
